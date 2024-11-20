@@ -1,0 +1,19 @@
+body{
+	background-color: black;
+}
+.allHeading{
+	color :palevioletred;
+	text-align: center;
+}
+#img{
+	color : hotpink;
+	text-align: center;
+}
+#allData{
+	text-align: center;
+	
+}
+.result{
+	color: azure;
+	font: bold;
+}
